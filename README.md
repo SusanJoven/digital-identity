@@ -1,5 +1,7 @@
 ## Identidad digital basada en Blockchain en Instituciones Educativas
 
+Prototipo de un sistema de identidad digital basado en Blockchain para los miembros de una entidad universitaria, en este caso, la Universidad de los Andes. El sistema diseñado permite tanto el ingreso al campus de la universidad, como el ingreso a las diferentes plataformas virtuales de la misma. Para la implementación del prototipo se utilizaron las herramientas ofrecidas por Hyperledger Indy, proyecto perteneciente al consorcio Hyperledger y presentado por la Fundación Linux.
+
 ### Configuración del ambiente
 
 Para descargar, construir y ejecutar el prototipo se requiere la instalación previa de python 3.7 y seguir las siguientes instrucciones:
