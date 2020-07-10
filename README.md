@@ -1,6 +1,6 @@
 ## Identidad digital basada en Blockchain en Instituciones Educativas
 
-# Configuración del ambiente
+### Configuración del ambiente
 
 Para descargar, construir y ejecutar el prototipo se requiere la instalación previa de python 3.7 y seguir las siguientes instrucciones:
 
